@@ -1,2 +1,3 @@
 	name: Rich Davies, Average Bloke
 	markdown: kramdown
+	permalink: /blog/:year/:month/:day/:title
